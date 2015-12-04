@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/m2mocad/danglot/AndroidStudioProjects/TestProject/volley/src/main/res"/><source path="/home/m2mocad/danglot/AndroidStudioProjects/TestProject/volley/build/generated/res/rs/release"/><source path="/home/m2mocad/danglot/AndroidStudioProjects/TestProject/volley/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/home/m2mocad/danglot/AndroidStudioProjects/TestProject/volley/src/release/res"/></dataSet><mergedItems/></merger>
